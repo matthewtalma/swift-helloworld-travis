@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/matthewtalma/swift-helloworld-travis.svg?branch=master)](https://travis-ci.org/matthewtalma/swift-helloworld-travis)
+
 # Basic Travis-CI Swift Application
 
 For public Travis-CI, go to https://travis-ci.org
